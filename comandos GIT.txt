@@ -1,0 +1,34 @@
+Cria Branch
+git branch teste
+
+Troca para Branch 
+git checkout teste
+
+Cria de seleciona Bracnh ao mesmo tempo
+git checkout - b teste
+
+Commit Final
+git commit -a -m "mensagem"
+
+Merge entre Branch
+git merge 'nome branch'
+
+Repositorio de rede para todos
+git init --bare
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
